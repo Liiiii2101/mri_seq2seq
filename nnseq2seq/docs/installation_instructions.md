@@ -21,7 +21,7 @@ Select your preferences and run the install command from [here](https://pytorch.
 
 For example, run the command as follows,
 ```
-pip install torch torchvision torchaudio
+pip install torch>2.0.0 torchvision torchaudio
 ```
 
 ### Install nnSeq2Seq
